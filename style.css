@@ -373,6 +373,7 @@ p{
     font-weight: 400;
     font-size: 22px;
     margin-bottom: 5px;
+    color: #fff;
 }
 
 .tour-action {
@@ -1287,4 +1288,5 @@ p{
     .floating-icons {
         display: none;
     }
+
 }
